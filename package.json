@@ -16,7 +16,7 @@
   "scripts": {
     "start": "node index.js",
     "predeploy": "npm run start",
-    "deploy": "gh-pages -d start"
+    "deploy": "gh-pages -d build"
   },
   "keywords": [],
   "author": "",
